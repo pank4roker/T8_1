@@ -1,0 +1,8 @@
+D:\115\t8\bin\Debug\t8.exe.config
+D:\115\t8\bin\Debug\t8.exe
+D:\115\t8\bin\Debug\t8.pdb
+D:\115\t8\obj\Debug\t8.csproj.AssemblyReference.cache
+D:\115\t8\obj\Debug\t8.csproj.SuggestedBindingRedirects.cache
+D:\115\t8\obj\Debug\t8.csproj.CoreCompileInputs.cache
+D:\115\t8\obj\Debug\t8.exe
+D:\115\t8\obj\Debug\t8.pdb
